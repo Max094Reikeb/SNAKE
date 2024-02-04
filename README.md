@@ -1,6 +1,6 @@
 # SNAKE #
 
-Snake is a small website I made where you can play the famous Snake game.
+Snake is a small website where you can play the famous Snake game.
 
 ## About
 
